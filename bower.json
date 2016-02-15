@@ -1,0 +1,25 @@
+{
+  "name": "jStat",
+  "description": "Statistical Library for JavaScript",
+  "main": "./dist/jstat.js",
+  "authors": [
+    "Trevor Norris <trev.norris@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jstat",
+    "jStat",
+    "javascript-statistical-library",
+    "statistical-library"
+  ],
+  "homepage": "http://github.com/jstat/jstat",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
